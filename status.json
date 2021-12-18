@@ -1,8 +1,10 @@
 {
   "powerSW": {
-    "lastTrigger": 123456
+    "lastTrigger": 123456,
+    "port": 22
   },
   "clearCMOS": {
-    "lastTrigger": 123456
+    "lastTrigger": 123456,
+    "port": 23
   }
 }
